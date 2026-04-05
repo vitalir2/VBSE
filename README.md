@@ -2,7 +2,7 @@
 Explanation of software engineering fundamentals using parallels in different fields of science and life.
 
 ## RU
-За объяснением что лежит в этом репозитории, смотрите `motivation_ru.md` в корне.
+За объяснением что лежит в этом репозитории, смотрите страницу [Мотивация](motivation_ru.md).
 
 ### Структура
 Репозиторий состоит из томов и страниц.
@@ -14,7 +14,7 @@ Explanation of software engineering fundamentals using parallels in different fi
 Репозиторий написан на двух языках: английский и русский. Найти страницу на необходимом языке можно по суффиксу `en` или `ru` или по названию папки внутри тома с такими же названиями.
 
 ## EN
-For the explanation behind the repository contents please check `motivation_en.md` in the root.
+For the explanation behind the repository contents please check [Motivation](motivation_en.md).
 
 ### Structure
 The repository consists of volumes and papers.
